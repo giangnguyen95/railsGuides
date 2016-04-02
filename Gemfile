@@ -8,6 +8,7 @@ gem 'sqlite3'
 
 # Use carrierwave for upload picture
 gem 'carrierwave'
+gem 'mini_magick', '3.8.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
